@@ -7,6 +7,8 @@
 word-count
 ==========
 
+This is a test wiki.
+
 .. toctree::
    :maxdepth: 2
 
